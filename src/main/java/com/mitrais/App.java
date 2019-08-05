@@ -12,6 +12,7 @@ public class App
         System.out.println("Second push");
         System.out.println("Third push");
         System.out.println("Added webhook in github");
-        System.out.println("Testing webhook pls work....");
+        System.out.println("Testing external webhook pls work....");
+        System.out.println("Testing the ec2 webhook pls work...");
     }
 }
