@@ -17,5 +17,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         Assert.assertEquals("Hello", "Hello");
+        Assert.assertEquals(10, 5+5);
     }
 }
